@@ -1,0 +1,20 @@
+{
+  "name": "cronsjob",
+  "version": "1.0.0",
+  "description": "Cronsjob For Brithday",
+  "main": "count.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node count.js"
+  },
+  "keywords": [
+    "cronsjob"
+  ],
+  "author": "RezaDevv",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
